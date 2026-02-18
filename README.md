@@ -1,52 +1,138 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lalith%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lalith+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;DSA+Lover+in+C%2B%2B+%F0%9F%A7%A0;Building+Cool+Stuff+on+the+Web+%F0%9F%8C%90" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=LalithKumarC2007&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/LalithKumarC2007?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+
 </div>
 
-###
+---
 
-<h4 align="left">Hi, I'm Lalith 👋<br><br>🎓 B.Tech in Computer Science Engineering (JSSSTU, graduating 2025)<br>💻 Passionate about Data Structures, Algorithms, and Competitive Programming<br>🌐 Interested in web development, creative app ideas, and visually polished technical content<br><br>🚀 What I Do<br>- Solve complex problems with clear, structured solutions<br>- Build software-only projects that blend utility with creativity<br>- Design technical documentation, cheat sheets, and study resources<br>- Explore innovative ways to combine hardware + software for impactful applications<br><br>🌱 Currently Exploring<br>- Advanced graph algorithms<br>- Full-stack web projects with modern frameworks<br>- Competitive programming strategies for coding interviews</h4>
+## 🧑‍💻 About Me
 
-###
+```cpp
+#include <iostream>
+using namespace std;
+
+class LalithKumar {
+public:
+    string name     = "Lalith Kumar";
+    string role     = "Full Stack Developer";
+    string passion  = "DSA in C++";
+    string github   = "LalithKumarC2007";
+
+    vector<string> currently = {
+        "Building Full Stack Web Apps",
+        "Solving DSA Problems in C++",
+        "Exploring System Design"
+    };
+
+    void hello() {
+        cout << "Hey! Let's build something awesome 🚀" << endl;
+    }
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+
+### 💻 Languages & Tools
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=dark" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=LalithKumarC2007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithKumarC2007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" height="180" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LalithKumarC2007&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LalithKumarC2007&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff" width="95%" />
+
 </div>
 
-###
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LalithKumarC2007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app/?username=LalithKumarC2007&theme=discord&no-frame=true&row=1&column=7" width="100%"/>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/LalithKumarC2007/LalithKumarC2007/output/snake.svg" alt="Snake animation" />
+## 🚀 Featured Projects
 
-###
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LalithKumarC2007&repo=LalithKumarC2007&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0)](https://github.com/LalithKumarC2007)
+
+> 💡 *Pin your best repos on GitHub → they'll automatically appear here as cards!*
+
+</div>
+
+---
+
+## 🧠 DSA Progress
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 💻 LeetCode | [LalithKumarC2007](https://leetcode.com/LalithKumarC2007) |
+| 🔥 GeeksForGeeks | [LalithKumarC2007](https://auth.geeksforgeeks.org/user/LalithKumarC2007) |
+| 🌐 Codeforces | [LalithKumarC2007](https://codeforces.com/profile/LalithKumarC2007) |
+
+*Update these links with your actual profiles!*
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LalithKumarC2007)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalithKumarC2007)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*⭐ If you like my work, consider starring my repos!*
+
+</div>
