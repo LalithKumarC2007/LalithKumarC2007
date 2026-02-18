@@ -81,25 +81,7 @@ public:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LalithKumarC2007&theme=discord&no-frame=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LalithKumarC2007&repo=LalithKumarC2007&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0)](https://github.com/LalithKumarC2007)
-
-> 💡 *Pin your best repos on GitHub → they'll automatically appear here as cards!*
-
-</div>
-
----
 
 ## 🧠 DSA Progress
 
@@ -108,8 +90,7 @@ public:
 | Platform | Profile |
 |----------|---------|
 | 💻 LeetCode | [LalithKumarC2007](https://leetcode.com/LalithKumarC2007) |
-| 🔥 GeeksForGeeks | [LalithKumarC2007](https://auth.geeksforgeeks.org/user/LalithKumarC2007) |
-| 🌐 Codeforces | [LalithKumarC2007](https://codeforces.com/profile/LalithKumarC2007) |
+
 
 *Update these links with your actual profiles!*
 
@@ -121,9 +102,9 @@ public:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LalithKumarC2007)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalithKumarC2007)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-kumar-c-3a104b296/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](lalithkumarc23@email.com)
 
 </div>
 
