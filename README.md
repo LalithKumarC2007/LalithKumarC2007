@@ -8,14 +8,8 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=LalithKumarC2007&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/LalithKumarC2007?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
 
-</div>
 
----
 
 ## 🧑‍💻 About Me
 
