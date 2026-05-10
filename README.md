@@ -69,8 +69,6 @@ public:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LalithKumarC2007&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff" width="95%" />
-
 </div>
 
 ---
