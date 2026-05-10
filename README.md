@@ -8,7 +8,10 @@
 
 <br/>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LalithKumarC2007/LalithKumarC2007/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LalithKumarC2007/LalithKumarC2007/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 ## 🧑‍💻 About Me
