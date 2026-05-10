@@ -8,12 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LalithKumarC2007/LalithKumarC2007/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LalithKumarC2007/LalithKumarC2007/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-
 ## 🧑‍💻 About Me
 
 ```cpp
@@ -108,6 +102,10 @@ public:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖. Let’s make something amazing together! 🚀
+
+![GitHub GIF](githubgif.gif)
 
 *⭐ If you like my work, consider starring my repos!*
 
